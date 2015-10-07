@@ -1,2 +1,4 @@
 # hello-world
-Introductory repo
+Introductory repository
+
+This file can be used to star writing the site plan.
